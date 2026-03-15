@@ -4,7 +4,7 @@
 
 @section('content')
 
-<div class="auth-title">Welcome back 👋</div>
+<div class="auth-title">Welcome back !</div>
 <div class="auth-subtitle">Sign in to manage your tournaments</div>
 
 <form method="POST" action="{{ route('login') }}">
